@@ -7,6 +7,9 @@ Repositório para armazenar os melhores links relacionados com a minha trajetór
 
 ## Artigos
 
+## Blogs
+[DevHeroes](https://devheroes.io/)
+
 
 ## Cursos
 [Codecademy](https://www.codecademy.com/tracks/javascript)
@@ -17,7 +20,8 @@ Repositório para armazenar os melhores links relacionados com a minha trajetór
 
 
 ## Livros
-[You Don't Know JS](https://github.com/cezaraugusto/You-Dont-Know-JS)
+[You Don't Know JS](https://github.com/cezaraugusto/You-Dont-Know-JS)  
+[Eloquent JavaScript](http://braziljs.github.io/eloquente-javascript/)
 
 
 ## Tutoriais  
