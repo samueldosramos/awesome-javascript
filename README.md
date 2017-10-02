@@ -20,16 +20,18 @@ Repositório para armazenar os melhores links relacionados com a minha trajetór
 [You Don't Know JS](https://github.com/cezaraugusto/You-Dont-Know-JS)
 
 
-## Tutoriais
+## Tutoriais  
+  
+  
+  
+  
+  
+      
 
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 Fonte da imagem: [Becode](https://becode.com.br/javascript-para-iniciantes-origens-o-que-e-para-que-serve/)
