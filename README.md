@@ -16,7 +16,7 @@ Repositório para armazenar os melhores links relacionados com a minha trajetór
 
 
 ## Documentação
-* [Guia MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+* [JavaScript - Guia MDN](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
 
 
 ## Livros
