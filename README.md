@@ -9,6 +9,7 @@ Repositório para armazenar os melhores links relacionados com a minha trajetór
 
 ## Blogs
 * [DevHeroes](https://devheroes.io/)
+* [Willian Justen](https://willianjusten.com.br/)
 
 
 ## Cursos
