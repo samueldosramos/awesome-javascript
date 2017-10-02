@@ -8,20 +8,20 @@ Repositório para armazenar os melhores links relacionados com a minha trajetór
 ## Artigos
 
 ## Blogs
-[DevHeroes](https://devheroes.io/)
+* [DevHeroes](https://devheroes.io/)
 
 
 ## Cursos
-[Codecademy](https://www.codecademy.com/tracks/javascript)
+* [Codecademy](https://www.codecademy.com/tracks/javascript)
 
 
 ## Documentação
-[Guia MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+* [Guia MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 
 ## Livros
-[You Don't Know JS](https://github.com/cezaraugusto/You-Dont-Know-JS)  
-[Eloquent JavaScript](http://braziljs.github.io/eloquente-javascript/)
+* [You Don't Know JS](https://github.com/cezaraugusto/You-Dont-Know-JS)  
+* [Eloquent JavaScript](http://braziljs.github.io/eloquente-javascript/)
 
 
 ## Tutoriais  
