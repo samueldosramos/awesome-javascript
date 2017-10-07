@@ -6,6 +6,7 @@ Repositório para armazenar os melhores links relacionados com a minha trajetór
 
 
 ## Artigos
+* [O melhor caminho para aprender JavaScript](http://programadorobjetivo.co/o-melhor-caminho-para-aprender-javascript-e-domina-lo/)
 
 ## Blogs
 * [DevHeroes](https://devheroes.io/)
