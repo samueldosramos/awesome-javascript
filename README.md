@@ -6,12 +6,12 @@ Repositório para armazenar os melhores links relacionados com a minha trajetór
 
 
 ## Artigos
-* [O melhor caminho para aprender JavaScript](http://programadorobjetivo.co/o-melhor-caminho-para-aprender-javascript-e-domina-lo/)
+* [Trilha - Aprenda JavaScript da Melhor Maneira](http://programadorobjetivo.co/o-melhor-caminho-para-aprender-javascript-e-domina-lo/)
 
 ## Blogs
 * [DevHeroes](https://devheroes.io/)
 * [Willian Justen](https://willianjusten.com.br/)
-* [Jsrocks](http://jsrocks.org/pt-br/)
+* [JS Rocks](http://jsrocks.org/pt-br/)
 
 ## Cursos
 * [Codecademy](https://www.codecademy.com/tracks/javascript)
