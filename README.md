@@ -7,6 +7,7 @@ Repositório para armazenar os melhores links relacionados com a minha trajetór
 
 ## Artigos
 * [Trilha - Aprenda JavaScript da Melhor Maneira](http://programadorobjetivo.co/o-melhor-caminho-para-aprender-javascript-e-domina-lo/)
+* [Começar a programar é com JavaScript](http://blog.caelum.com.br/comecar-a-programar-e-com-javascript/)
 
 ## Blogs
 * [DevHeroes](https://devheroes.io/)
