@@ -26,6 +26,9 @@ Repositório para armazenar os melhores links relacionados com a minha trajetór
 * [You Don't Know JS](https://github.com/cezaraugusto/You-Dont-Know-JS)
 * [Eloquent JavaScript](http://braziljs.github.io/eloquente-javascript/)
 
+## Projetos
+* [Guia de bolso JS](https://github.com/lucasmaiaesilva/guia-de-bolso-javascript)
+
 
 ## Tutoriais
 
