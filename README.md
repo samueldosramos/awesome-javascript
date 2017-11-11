@@ -17,6 +17,7 @@ Repositório para armazenar os melhores links relacionados com a minha trajetór
 
 ## Cursos
 * [Codecademy](https://www.codecademy.com/tracks/javascript)
+* [Introdução à JavaScript - Udacity](https://br.udacity.com/course/intro-to-javascript--ud803)
 
 
 ## Documentação
