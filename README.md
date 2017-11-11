@@ -16,7 +16,7 @@ Repositório para armazenar os melhores links relacionados com a minha trajetór
 * [Show Me the Code](https://showmethecode.com.br/)
 
 ## Cursos
-* [Codecademy](https://www.codecademy.com/tracks/javascript)
+* [JavaScript - Codecademy](https://www.codecademy.com/tracks/javascript)
 * [Introdução à JavaScript - Udacity](https://br.udacity.com/course/intro-to-javascript--ud803)
 * [JavaScript Básico - Udacity](https://br.udacity.com/course/javascript-basics--ud804)
 
