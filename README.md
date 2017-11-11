@@ -13,6 +13,7 @@ Repositório para armazenar os melhores links relacionados com a minha trajetór
 * [DevHeroes](https://devheroes.io/)
 * [Willian Justen](https://willianjusten.com.br/)
 * [JS Rocks](http://jsrocks.org/pt-br/)
+* [Show Me the Code](https://showmethecode.com.br/)
 
 ## Cursos
 * [Codecademy](https://www.codecademy.com/tracks/javascript)
