@@ -8,34 +8,40 @@ Repositório para armazenar os melhores links relacionados com a minha trajetór
 ## Artigos
 
 ### Iniciando
-* [Trilha - Aprenda JavaScript da Melhor Maneira](http://programadorobjetivo.co/o-melhor-caminho-para-aprender-javascript-e-domina-lo/)
-* [Começar a programar é com JavaScript](http://blog.caelum.com.br/comecar-a-programar-e-com-javascript/)
+
+- [Trilha - Aprenda JavaScript da Melhor Maneira](http://programadorobjetivo.co/o-melhor-caminho-para-aprender-javascript-e-domina-lo/)
+- [Começar a programar é com JavaScript](http://blog.caelum.com.br/comecar-a-programar-e-com-javascript/)
 - [Ecossistema JavaScript — Parte 01: Plataformas](https://blog.codecasts.com.br/ecossistema-javascript-parte-01-plataformas-7a611608b58)
 - [Ecossistema JavaScript — Parte 02: Package Managers](https://blog.codecasts.com.br/ecossistema-javascript-parte-02-package-manager-68fd19a1fad3)
 - [Ecossistema JavaScript — Parte 03: Task Runners](https://blog.codecasts.com.br/ecossistema-javascript-parte-03-task-runners-5acedba9f072)
 
 ## Blogs
-* [DevHeroes](https://devheroes.io/)
-* [Willian Justen](https://willianjusten.com.br/)
-* [JS Rocks](http://jsrocks.org/pt-br/)
-* [Show Me the Code](https://showmethecode.com.br/)
+
+- [DevHeroes](https://devheroes.io/)
+- [Willian Justen](https://willianjusten.com.br/)
+- [JS Rocks](http://jsrocks.org/pt-br/)
+- [Show Me the Code](https://showmethecode.com.br/)
 
 ## Cursos
-* [JavaScript - Codecademy](https://www.codecademy.com/tracks/javascript)
-* [Introdução à JavaScript - Udacity](https://br.udacity.com/course/intro-to-javascript--ud803)
-* [JavaScript Básico - Udacity](https://br.udacity.com/course/javascript-basics--ud804)
+
+- [JavaScript - Codecademy](https://www.codecademy.com/tracks/javascript)
+- [Introdução à JavaScript - Udacity](https://br.udacity.com/course/intro-to-javascript--ud803)
+- [JavaScript Básico - Udacity](https://br.udacity.com/course/javascript-basics--ud804)
 
 
 ## Documentação
-* [JavaScript - Guia MDN](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
+
+- [JavaScript - Guia MDN](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
 
 
 ## Livros
-* [You Don't Know JS](https://github.com/cezaraugusto/You-Dont-Know-JS)
-* [Eloquent JavaScript](http://braziljs.github.io/eloquente-javascript/)
+
+- [You Don't Know JS](https://github.com/cezaraugusto/You-Dont-Know-JS)
+- [Eloquent JavaScript](http://braziljs.github.io/eloquente-javascript/)
 
 ## Projetos
-* [Guia de bolso JS](https://github.com/lucasmaiaesilva/guia-de-bolso-javascript)
+
+- [Guia de bolso JS](https://github.com/lucasmaiaesilva/guia-de-bolso-javascript)
 
 
 ## Tutoriais
