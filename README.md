@@ -11,9 +11,13 @@ Repositório para armazenar os melhores links relacionados com a minha trajetór
 
 - [Trilha - Aprenda JavaScript da Melhor Maneira](http://programadorobjetivo.co/o-melhor-caminho-para-aprender-javascript-e-domina-lo/)
 - [Começar a programar é com JavaScript](http://blog.caelum.com.br/comecar-a-programar-e-com-javascript/)
+- [O que se pode fazer com JavaScript hoje em dia?](https://www.treinaweb.com.br/blog/o-que-se-pode-fazer-com-javascript-hoje-em-dia/)
 - [Ecossistema JavaScript — Parte 01: Plataformas](https://blog.codecasts.com.br/ecossistema-javascript-parte-01-plataformas-7a611608b58)
 - [Ecossistema JavaScript — Parte 02: Package Managers](https://blog.codecasts.com.br/ecossistema-javascript-parte-02-package-manager-68fd19a1fad3)
 - [Ecossistema JavaScript — Parte 03: Task Runners](https://blog.codecasts.com.br/ecossistema-javascript-parte-03-task-runners-5acedba9f072)
+- [Ecossistema JavaScript — Parte 04: Transpilers](https://blog.codecasts.com.br/ecossistema-javascript-parte-04-transpilers-734f77422316)
+- [Ecossistema JavaScript — Parte 05: Bundlers (Builders)](https://blog.codecasts.com.br/ecossistema-javascript-parte-05-bundlers-builders-6809b17ddcf8)
+- [Ecossistema JavaScript — Parte 06: Template Engines](https://blog.codecasts.com.br/ecossistema-javascript-parte-06-template-engines-b41a41178dce)
 
 ## Blogs
 
